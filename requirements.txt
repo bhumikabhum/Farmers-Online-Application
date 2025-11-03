@@ -1,0 +1,11 @@
+# Development Tools
+Android Studio Electric Eel or higher
+Gradle 8.0+
+Java 17 (JDK)
+Android SDK 34+
+
+# Libraries
+Material Design Components
+SQLite (built-in)
+Retrofit2 (optional, for API)
+Glide (for image loading)
